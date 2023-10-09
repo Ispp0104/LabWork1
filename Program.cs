@@ -1,4 +1,4 @@
-//*
+/*
 //Task 5.1.1
 int Sum(int a, int b)
     => a + b;
@@ -117,7 +117,7 @@ async Task<double> GetCalcAsync(double a1, int x1, double a2, int x2, double a3,
 
 Console.WriteLine(await GetCalcAsync(2, 2, 2, 2, 3, 3, 4, 4));
 
-*//
+*/
 //Task 5.4
 
 var cancel = new CancellationTokenSource();
